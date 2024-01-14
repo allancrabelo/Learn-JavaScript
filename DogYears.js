@@ -9,6 +9,7 @@ const myAge = 21;
 //I creat a variable named myAge and set it up my age. Stay free to change to your age!
 
 let myAgeInDogYears = myAge * 5.63;
+//If 8 human's life years its equal to 45 dog years. 1 human year = 5.63 dog year. So, to convert, lets multiply!
 
 myAgeInDogYears = Math.floor(myAgeInDogYears)
 //To Round Down the Age
